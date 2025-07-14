@@ -1,0 +1,26 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# SSL Certificates (if any are created later)
+*.pem
+*.key
+
+# QR code images
+*.png
+
+# Temporary files
+tempCodeRunnerFile.py
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+
+# Environment / secrets
+.env
+.venv/
+env/
